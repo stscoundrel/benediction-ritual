@@ -7,5 +7,5 @@ Just a Rust script to spam required amount of respectable enough test data to po
 ## Usage
 
 - Run [Benediction](https://github.com/stscoundrel/benediction) on host machine.
-- Run the ritual with `cargo run`. Edit the amounts etc as needed.
+- Run the ritual with `cargo run`. Default amount if 100 events, can be overwritten with `cargo run 666`
 
