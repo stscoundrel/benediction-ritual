@@ -1,5 +1,5 @@
 [package]
-name = "benediction-ritual"
+name = "benediction_ritual"
 version = "1.0.0"
 authors = ["stscoundrel / Sampo Silvennoinen"]
 license = "MIT"
